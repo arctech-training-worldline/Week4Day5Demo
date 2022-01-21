@@ -20,7 +20,7 @@ namespace Week4Day5Demo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            Application.Run(new TestingForm());
+            Application.Run(new FormFileLoader());
         }
     }
 }
